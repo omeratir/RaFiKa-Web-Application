@@ -1,0 +1,50 @@
+﻿@model RaFiKaWebApplication.Models.Account
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Account</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NameAccount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameAccount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmailAccount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmailAccount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PasswordAccount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PasswordAccount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isAdminAccount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isAdminAccount)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AccountId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

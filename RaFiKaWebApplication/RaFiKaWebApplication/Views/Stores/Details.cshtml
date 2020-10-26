@@ -1,0 +1,42 @@
+﻿@model RaFiKaWebApplication.Models.Store
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Store</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NameStore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NameStore)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressStore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressStore)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhoneStore)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhoneStore)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StoreId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

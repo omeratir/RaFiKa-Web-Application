@@ -1,0 +1,20 @@
+﻿@model RaFiKaWebApplication.Models.Account
+
+@{
+    ViewBag.Title = "ErrorMessage";
+}
+
+<h2><a style="color:red;">Error Message</h2></a>
+
+<h1>You Don't Have Permission To This Page !</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <br />
+    <br />
+    <div class="form-actions no-color">
+        @Html.ActionLink("Back to RaFiKa's Shop", "../Home")
+    </div>
+}
+

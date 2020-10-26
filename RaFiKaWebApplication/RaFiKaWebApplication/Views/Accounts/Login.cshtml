@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+@{
+    ViewBag.Title = "Login";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background-color: #f2f2f2;
+        }
+
+        .btn {
+            border: 2px solid black;
+            background-color: white;
+            color: black;
+            padding: 14px 28px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        /* Green */
+        .success {
+            border-color: #4CAF50;
+            color: green;
+        }
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" > <style > body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        /* style the container */
+        .container {
+            position: relative;
+            border-radius: 1px;
+            background-color: #f2f2f2;
+            padding: 1px 0 1px 0;
+        }
+
+        /* style inputs and link buttons */
+        input,
+        .btn {
+            width: 50%;
+            padding: 8px;
+            border: none;
+            border-radius: 2px;
+            margin: 7px 0;
+            opacity: 1.05;
+            display: inline-block;
+            font-size: 17px;
+            line-height: 30px;
+            text-decoration: none; /* remove underline from anchors */
+        }
+
+            /* style the submit button */
+            input[type=submit] {
+                background-color: #4CAF50;
+                color: white;
+                cursor: pointer;
+            }
+
+                input[type=submit]:hover {
+                    background-color: #45a049;
+                }
+        /* hide some text on medium and large screens */
+        .hide-md-lg {
+            display: none;
+        }
+        /* bottom container */
+        .bottom-container {
+            text-align: center;
+            background-color: #666;
+            border-radius: 0px 0px 4px 4px;
+        }
+        /* hide the vertical line */
+        .vl {
+            display: none;
+        }
+        /* show the hidden text on small screens */
+        .hide-md-lg {
+            display: block;
+            text-align: center;
+        }
+    </style>
+</head>
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<div class="sub-main-w3">
+    <div class="bg-content-w3pvt">
+        <form action="Login" method="post">
+
+            @if (Session["wrong password"] != null)
+            {
+                <h4 style="color:Tomato;">Wrong User Name/Password!</h4>
+                <h5 style="color:Tomato;">Please try again.</h5>
+            }
+            <p>
+                <div class="input">
+                    <input type="text" placeholder="User Name" name="NameAccount" required />
+                    <span class="fa fa-envelope"></span>
+                </div>
+                <div class="input">
+                    <input type="password" placeholder="Password" name="PasswordAccount" required />
+                    <span class="fa fa-unlock"></span>
+                </div>
+            </p>
+            <button class="btn success">
+                Login
+                <span class="fa fa-sign-in"></span>
+            </button>
+            <br />
+            <br />
+            <p>
+                <h4>
+                    If You Don't Have An Account Yet, Press
+                    <a href="/Accounts/Register">Sign-Up</a>
+                </h4>
+            </p>
+        </form>
+    </div>
+</div>
+
+</html>
+

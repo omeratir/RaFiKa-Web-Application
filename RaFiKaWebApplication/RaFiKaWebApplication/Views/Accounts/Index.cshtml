@@ -1,0 +1,127 @@
+﻿@model IEnumerable<RaFiKaWebApplication.Models.Account>
+@using RaFiKaWebApplication.Models;
+@{
+    ViewBag.Title = "Accounts List";
+}
+    <html>
+    <head>
+        <style>
+            .title {
+                margin-top: 2%;
+                margin-bottom: 2%;
+                font-family: 'Segoe UI';
+                font-size: 5vw;
+                text-align: left;
+                text-shadow: 2px 2px 4px #000000;
+                color: #1c5851;
+                font-weight: bold;
+            }
+
+            body{
+                font-family: cursive;
+            }
+            .btn 
+            {
+                margin-top: 5%;
+                margin-bottom: 5%;
+                border: none;
+                color: white;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+                position: center;
+            }
+        </style>
+    </head>
+    <body>
+        <header class="title"> Accounts List <i class="fa fa-users" aria-hidden="true"></i></header>
+
+        <div class="container no-gutters">
+            <div class="row no-gutters">
+                <div class="col">
+                    <div class="row">
+                        <span class="mr-2" style="font-family:cursive; font-size: 30px;"><b>How many admins in our Website?</b> </span>
+                        @{
+                            ShopDBContext db = new ShopDBContext();
+                            var users = db.accounts.GroupBy(u => u.isAdminAccount);
+
+                            <br />
+                            <br />
+
+                            @*foreach (var u in users)
+                            {
+                                <span class="mr-2">
+
+                                    @u.Key
+
+                                    <span class="pr-1"></span>
+                                    @u.Count()
+                                </span>
+                            }*@
+
+                            foreach(var u in users)
+                            {
+                                if (u.Key == false)
+                                {<p> Non-Admin : @u.Count() </p>}
+                                else
+                                { <p> Admin : @u.Count() </p> }
+                            }
+                        }
+                    </div>
+                    <div class="row">
+                        <span style="font-family:cursive; font-size: 18px; margin-top:2%;"><b>Total:</b> &nbsp; @db.accounts.Count()</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <p>
+            <button class="btn" style="background-color: #21648b;" onclick="toFilter()"><i class="fa fa-plus" aria-hidden="true"></i> Create New Account </button>
+            <script>
+                function toFilter() {
+                     location.replace("/Accounts/Create")
+                }
+            </script>
+        </p>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NameAccount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EmailAccount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PasswordAccount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.isAdminAccount)
+                </th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NameAccount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmailAccount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PasswordAccount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.isAdminAccount)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.AccountId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.AccountId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.AccountId })
+                    </td>
+                </tr>
+            }
+        </table>
+     </body>
+    </html>

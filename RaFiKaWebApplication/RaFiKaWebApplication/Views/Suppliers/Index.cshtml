@@ -1,0 +1,144 @@
+﻿@using RaFiKaWebApplication.Models;
+@model IEnumerable<RaFiKaWebApplication.Models.Supplier>
+
+@{
+    ViewBag.Title = "Suppliers";
+}
+
+<html>
+<head>
+    <style>
+        body{
+            font-family: cursive;
+        }
+
+        .title {
+            margin-top: 5%;
+            margin-bottom: 5%;
+            font-family: 'Segoe UI';
+            font-size: 5vw;
+            text-align: left;
+            text-shadow: 2px 2px 4px #000000;
+            color: #381758;
+            font-weight: bold;
+        }
+        .btn {
+            margin-bottom: 5%;
+            border: none;
+            color: white;
+            padding: 12px 16px;
+            font-size: 16px;
+            cursor: pointer;
+            position: center;
+        }
+    </style>
+</head>
+<body>
+    <header class="title"> Suppliers </header>
+
+    <p>
+        <button class="btn" style="background-color: #5457ff;" onclick="CreateItem()"><i class="fa fa-plus" aria-hidden="true"></i> Add New Supplier </button>
+        <script>
+            function CreateItem()
+            {
+                location.replace("/Suppliers/Create")
+            }
+        </script>
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NameSupplier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneSupplier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoodsSupplier)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NameSupplier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneSupplier)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GoodsSupplier)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.SupplierId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.SupplierId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.SupplierId })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <br />
+    <br />
+
+    <div class="mt-5">
+        @{
+            ShopDBContext db2 = new ShopDBContext();
+
+
+
+            var productsInnerJoin = from products in db2.products
+                                    join suppliers in db2.suppliers
+                                        on products.SupplierId equals suppliers.SupplierId
+                                    select new
+                                    {
+
+                                        productName = products.NameProduct,
+                                        supplierName = suppliers.NameSupplier
+
+                                    };
+        }
+        <br />
+        <h5 style="font-family:'Segoe UI'; font-size: 20px;">
+            List of
+            <span style="color:#FFD166">Products</span>
+            with their
+            <span style="color:#06D6A0">Suppliers</span>
+        </h5>
+        <hr />
+        <div class="card bg-secondary">
+            <table class="table table-borderless">
+                <thead style="background-color: #c5c7d3">
+                    <tr>
+                        <th scope="col">#</th>
+                        <th>Product Name</th>
+                        <th>Supplier Name </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int counter = 1;
+                    }
+                    @foreach (var record in productsInnerJoin.ToList())
+                    {
+                        <tr class="text-regular bg-secondary">
+                            <th scope="row">@counter</th>
+                            <td>@record.productName</td>
+                            <td>@record.supplierName</td>
+                        </tr>
+
+                        counter++;
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</body>
+</html>
+
+
+

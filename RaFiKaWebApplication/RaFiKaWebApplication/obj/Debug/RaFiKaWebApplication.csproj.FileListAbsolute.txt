@@ -1,0 +1,665 @@
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CopyComplete
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\omeratir1\Desktop\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojAssemblyReference.cache
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojAssemblyReference.cache
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CopyComplete
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+F:\New folder\פיתוח אפליקציות\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\אביעד\Desktop\‏‏תיקיה חדשה (3)\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\אביעד\Desktop\‏‏תיקיה חדשה (3)\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\אביעד\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojAssemblyReference.cache
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CopyComplete
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\benahl\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\shira\Desktop\11.8 עומר עיצוב\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojAssemblyReference.cache
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CopyComplete
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\omeratir1\Desktop\New folder\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\ApplicationInsights.config
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll.config
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\RaFiKaWebApplication.pdb
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.exe.config
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csc.rsp
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.exe.config
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\csi.rsp
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Console.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\vbc.rsp
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\WebGrease.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Helpers.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Mvc.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Optimization.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.Razor.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csprojAssemblyReference.cache
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.csproj.CopyComplete
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.dll
+C:\Users\OMER\Desktop\RaFiKaWebApplication\RaFiKaWebApplication\obj\Debug\RaFiKaWebApplication.pdb

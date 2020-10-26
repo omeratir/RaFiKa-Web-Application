@@ -1,0 +1,52 @@
+﻿@model RaFiKaWebApplication.Models.Product
+
+@{
+    ViewBag.Title = "Error Message";
+}
+
+<html>
+<head>
+    <style>
+        h1 {
+            width: 200px;
+            height: 100px;
+            background: red;
+            -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+            transition: width 2s;
+            font-family: cursive;
+            font-weight: bold;
+        }
+
+            h1:hover {
+                width: 500px;
+            }
+    </style>
+</head>
+<body>
+
+    <h1>  Error Message</h1>
+
+    <p>
+        <h2>You Don't Have Permission To This Page !</h2>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <br />
+            <br />
+        <p class="form-actions no-color">
+            @Html.ActionLink("Back to RaFiKa's Shop", "../Home")
+        </p>
+    }
+
+
+
+    </body>
+</html>
+
+
+
+
+
+
+

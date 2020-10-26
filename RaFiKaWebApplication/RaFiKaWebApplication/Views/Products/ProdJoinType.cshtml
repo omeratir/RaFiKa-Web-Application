@@ -1,0 +1,65 @@
+﻿@using RaFiKaWebApplication.Models;
+@model RaFiKaWebApplication.Models.Product
+
+@{
+    ViewBag.Title = "Product Join Type";
+}
+
+<h2> Product Join Type </h2>
+
+<div class="mt-5">
+    @{
+        ShopDBContext db3 = new ShopDBContext();
+
+
+
+        var psInnerJoin = from products in db3.products
+                          join productstype in db3.typesshoes
+                              on products.ProductTypeId equals productstype.ProductTypeId
+                          select new
+                          {
+                              type = productstype.NameProductType,
+                              productName = products.NameProduct,
+                              productprice = products.PriceProduct,
+
+                          };
+    }
+    <br />
+    <h5>
+        List of
+        <span style="color:#FFD166">Products</span>
+        with their
+        <span style="color:#06D6A0">Products type</span>
+    </h5>
+    <hr />
+    <div class="card bg-secondary">
+        <table class="table table-borderless">
+            <thead style="background-color: #c5c7d3">
+                <tr>
+                    <th scope="col">#</th>
+                    <th>Type</th>
+                    <th>Product Name </th>
+                    <th>Product price </th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int counter2 = 1;
+                }
+                @foreach (var record in psInnerJoin.ToList())
+            {
+                    <tr class="text-regular bg-secondary">
+                        <th scope="row">@counter2</th>
+                        <td>@record.type</td>
+                        <td>@record.productName</td>
+                        <td>@record.productprice</td>
+                    </tr>
+
+                    counter2++;
+                }
+            </tbody>
+        </table>
+    </div>
+    <
+</div>
+

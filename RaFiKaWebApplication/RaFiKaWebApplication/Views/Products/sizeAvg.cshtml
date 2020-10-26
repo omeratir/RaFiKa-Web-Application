@@ -1,0 +1,63 @@
+﻿@model IEnumerable<RaFiKaWebApplication.Models.Product>
+
+@{
+    ViewBag.Title = "Size Average";
+}
+
+<html>
+<head>
+    <style>
+        body {
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1> Average Size of Shoes By Type </h1>
+    @{
+        double highHeels = 0;
+        double sandals = 0;
+        double sneakers = 0;
+        double boots = 0;
+
+        int count_highHeels = 0;
+        int count_sandals = 0;
+        int count_sneakers = 0;
+        int count_boots = 0;
+
+        foreach (var item in Model)
+        {
+            if (item.TypeOfProduct.NameProductType.Equals("High Heel"))
+            { highHeels = highHeels + item.SizeProduct; count_highHeels++; }
+
+            if (item.TypeOfProduct.NameProductType.Equals("Sandals"))
+            { sandals = sandals + item.SizeProduct; count_sandals++; }
+
+
+            if (item.TypeOfProduct.NameProductType.Equals("Sneakers"))
+            { sneakers = sneakers + item.SizeProduct; count_sneakers++; }
+
+
+            if (item.TypeOfProduct.NameProductType.Equals("Boots"))
+            { boots = boots + item.SizeProduct; count_boots++; }
+        }
+
+        highHeels = highHeels / count_highHeels;
+        sandals = sandals / count_sandals;
+        sneakers = sneakers / count_sneakers;
+        boots = boots / count_boots;
+
+        var key = new Chart(width: 600, height: 400)
+        .AddTitle("Average Size of Shoes By Type")
+        .AddSeries(
+           name: "Type",
+           xValue: new[] { "High Heels", "Sandals", "Sneakers", "Boots" },
+           yValues: new[] { highHeels, sandals, sneakers, boots })
+        .Write();
+    }
+</body>
+</html>
+
+
+
+

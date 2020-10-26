@@ -1,0 +1,224 @@
+﻿@model IEnumerable<RaFiKaWebApplication.Models.Store>
+@{
+    ViewBag.Title = "Our Stores";
+}
+<html>
+<head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        #map {
+            height: 100%;
+        }
+
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .productTitle {
+            font-family: cursive;
+            text-align: left;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            background-color: #ffffff;
+            grid-gap: 40px;
+            padding: 20px;
+        }
+
+            .grid-container > div {
+                position: center;
+                background-color: white;
+                text-align: center;
+                font-size: 20px;
+            }
+
+        .title {
+            margin-top: 5%;
+            margin-bottom: 5%;
+            font-family: 'Segoe UI';
+            font-size: 5vw;
+            text-align: center;
+            text-shadow: 2px 2px 4px #000000;
+            color: #97a939;
+            font-weight: bold;
+        }
+
+        /*search style*/
+
+        * {
+            box-sizing: border-box;
+        }
+
+        #myInput {
+            background-image: url('/css/searchicon.png');
+            background-position: 10px 12px;
+            background-repeat: no-repeat;
+            width: 100%;
+            font-size: 16px;
+            padding: 12px 20px 12px 40px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
+        }
+
+        #myUL {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+            #myUL li a {
+                border: 1px solid #ddd;
+                margin-top: -1px; /* Prevent double borders */
+                background-color: #f6f6f6;
+                padding: 12px;
+                text-decoration: none;
+                font-size: 18px;
+                color: black;
+                display: block
+            }
+
+                #myUL li a:hover:not(.header) {
+                    background-color: #eee;
+                }
+    </style>
+</head>
+<body>
+
+    <h1 class="title"> Find a store near you </h1>
+    @*<div class="grid-container">*@
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for stores.." title="Type in a name" class="productTitle">
+
+        <ul id="myUL">
+            <li>
+                <a class="productTitle">
+                    HaZaHav Mall<br/>
+                    Daviv Sharov 21, Rishon Lezion<br/>
+                    Phone: 521231231
+                </a>
+            </li>
+            <li>
+                <a class="productTitle">
+                    Rishonim Mall<br />
+                    Nim 2, Rishon Lezion<br />
+                    Phone: 524564564
+                </a>
+            </li>
+            <li>
+                <a class="productTitle">
+                    Colman Mall<br />
+                    Ali Vizel 2, Rishon Lezion<br />
+                    Phone: 547897897
+                </a>
+            </li>
+            <li>
+                <a class="productTitle">
+                    Azrieli Mall<br />
+                    Menahem Begin 132, Tel Aviv<br />
+                    Phone: 541231231
+                </a>
+            </li>
+            <li>
+                <a class="productTitle">
+                    TLV Fashion Mall<br />
+                    Hahasmonaim 96, Tel Aviv<br />
+                    Phone: 584564564
+                </a>
+            </li>
+
+        </ul>
+            @*@foreach (var item in Model)
+            {
+                <div class="row">
+                    <h2 class="productTitle"> @Html.DisplayFor(modelItem => item.NameStore)</h2>
+                    <address>
+                        @Html.DisplayFor(modelItem => item.AddressStore)<br />
+                        <abbr title="Phone">Phone:</abbr>
+                        @Html.DisplayFor(modelItem => item.PhoneStore)
+                    </address>
+                </div>
+            }*@
+       
+@*</div>*@
+
+    <script>
+        function myFunction() {
+            var input, filter, ul, li, a, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("myUL");
+            li = ul.getElementsByTagName("li");
+            for (i = 0; i < li.length; i++) {
+                a = li[i].getElementsByTagName("a")[0];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+    </script>
+
+    <br/>
+    <br/>
+    <div>
+        <div id="map"></div>
+        <script>
+            var map;
+            function initMap() {
+                map = new google.maps.Map(document.getElementById('map'), {
+                    center: { lat: -34.397, lng: 150.644 },
+                    zoom: 10
+                });
+                {
+                    var hazav = { lat: 31.990110, lng: 34.774020 };
+                    var rishonim = { lat: 31.949640, lng: 34.804220 };
+                    var colman = { lat: 31.968910, lng: 34.770730 };
+                    var azrieli = { lat: 32.075070, lng: 34.790840 };
+                    var tlvmall = { lat: 32.069351, lng: 34.787331 };
+
+                    var map = new google.maps.Map(document.getElementById('map'),
+                        {
+                            zoom: 11,
+                            center: { lat: 32.023941, lng: 34.803341 }
+                        });
+                    var marker = new google.maps.Marker({
+                        position: rishonim,
+                        map: map
+                    });
+                    var marker = new google.maps.Marker({
+                        position: hazav,
+                        map: map
+                    });
+
+                    var marker = new google.maps.Marker({
+                        position: colman,
+                        map: map
+                    });
+
+                    var marker = new google.maps.Marker({
+                        position: azrieli,
+                        map: map
+                    });
+
+                    var marker = new google.maps.Marker({
+                        position: tlvmall,
+                        map: map
+                    });
+                }
+
+            }
+        </script>
+        <script async defer
+                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnUBowr4LBkxqc1_hOolEMckU8RN507tg&callback=initMap">
+        </script>
+    </div>
+</body>
+</html>

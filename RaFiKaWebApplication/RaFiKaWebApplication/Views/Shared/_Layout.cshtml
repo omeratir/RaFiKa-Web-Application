@@ -1,0 +1,169 @@
+﻿
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            margin: 0;
+            /font-size: 28px;
+            / font-family: cursive;
+        }
+
+        .image-container {
+            background-image: url(/Pictures/shop_background.jpg);
+            background-size: cover;
+            position: relative;
+            height: 200px;
+        }
+
+        .element {
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        }
+
+        .text {
+            background-color: white;
+            color: black;
+            font-size: 5vw;
+            font-weight: bold;
+            margin: 0 auto;
+            padding: 10px;
+            width: 50%;
+            text-align: center;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            mix-blend-mode: screen;
+            font-family: cursive;
+        }
+
+        .header {
+            background-color: #E6FBFF;
+            padding: 0.5px;
+            text-align: center;
+            font-size: 60px;
+            text-shadow: 2px 2px 4px #000000;
+            color: #99CCFF
+        }
+
+        #navbar {
+            overflow: hidden;
+            background-color: #333;
+            width: 100%;
+        }
+
+            #navbar a {
+                float: left;
+                display: block;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 12px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+
+                #navbar a:hover {
+                    background-color: #ddd;
+                    color: black;
+                }
+
+                #navbar a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                }
+
+            #navbar .right-side {
+                float: right;
+            }
+
+        .content {
+            padding: 16px;
+        }
+
+        .sticky {
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+
+            .sticky + .content {
+                padding-top: 60px;
+            }
+    </style>
+</head>
+<body>
+    <header class="image-container">
+        <div class="text"> RaFiKa </div>
+    </header>
+    <div id="navbar">
+        <a class="active" href="/Home/Index"><i class="fa fa-fw fa-home"></i> RaFiKa's Shop </a>
+        <a href="/Home/About"><i class="fa fa-users"></i> About Us </a>
+        <a href="/Home/Contact"><i class="fa fa-envelope"></i> Contact Us </a>
+        <a href="/Products/Index"><i class="fa fa-star"></i> Our Products </a>
+        <a href="/Stores/Index"><i class="fa fa-globe"></i> Our Stores </a>
+        @if (Session["Admin"] == "admin")
+        {
+            <a href="/Suppliers/Index"><i class="fa fa-male"></i> Suppliers </a>
+            <a href="/Accounts/Index"><i class="fa fa-user-circle"></i> Accounts </a>
+            <a href="/ProductTypes/Index"><i class="fa fa-sort" aria-hidden="true"></i> Product Types </a>
+        }
+
+
+
+        <div class="right-side">
+            <form action="/action_page.php">
+                @if (Session["UserName"] != null)
+                {
+                    <a href=#><i aria-hidden="true"></i>Hello @Session["UserName"]</a>
+                    <a href="/Accounts/Logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a>
+
+                }
+                else
+                {
+                    <a href="/Accounts/Login"><i class="fa fa-user" aria-hidden="true"></i> Login</a>
+                    <a href="/Accounts/Register"><i class="fa fa-sign-in" aria-hidden="true"></i> Sign Up</a>
+                }
+
+            </form>
+        </div>
+    </div>
+    @*<script>
+            window.onscroll = function () { myFunction() };
+
+            var navbar = document.getElementById("navbar");
+            var sticky = navbar.offsetTop;
+
+            function myFunction() {
+                if (window.pageYOffset >= sticky) {
+                    navbar.classList.add("sticky")
+                } else {
+                    navbar.classList.remove("sticky");
+                }
+            }
+        </script>*@
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Our Web Application Project</p>
+            <p>Made by: Omer Atir, Aviad Rahamim, Shiran Klein , Guy Peleg </p>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

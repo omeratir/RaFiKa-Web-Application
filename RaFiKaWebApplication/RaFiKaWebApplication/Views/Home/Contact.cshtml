@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Contact Us";
+}
+<html>
+<head>
+    <style>
+         .title
+         {
+           margin-top: 2%;
+           margin-bottom: 2%;
+           font-family: 'Segoe UI';
+           font-size: 3vw;
+           text-align: left;
+           text-shadow: 2px 2px 4px #000000;
+           color: #2d9cba;
+           font-weight: bold;
+         }
+
+         .add
+         {
+            text-align: left;
+            font-size: 20px;
+            font-family: myFirstFont;
+         }
+
+         .mail
+         {
+            text-align: left;
+            font-size: 20px;
+            font-family: myFirstFont;
+            margin-bottom: 40%;
+         }
+
+         font-face{
+               font-family: myFirstFont;
+               src: url(sansation_light.woff);
+         }
+
+
+    </style>
+</head>
+<body>
+    <aside>
+        <header class="title">
+            <p>@ViewBag.Title</p>
+        </header>
+        <address class="add">
+            Computer Science Students at <br />
+            The College of managment acdemic studies <br />
+            Eli Vizel 2<br />
+            Rishon Lezion <br />
+            <abbr title="Phone">Phone number:</abbr>
+            +972-52-1234567
+        </address>
+        <address class="mail">
+            <strong class="add"> Support & Questions :</strong>   <a href="mailto:students@colman.com">students@colman.com</a><br />
+        </address>
+    </aside>
+</body>
+</html>

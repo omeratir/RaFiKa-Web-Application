@@ -1,0 +1,62 @@
+﻿@*@model RaFiKaWebApplication.Models.Product*@
+@model IEnumerable<RaFiKaWebApplication.Models.Product>
+
+
+@{
+    ViewBag.Title = "priceAvg";
+}
+
+<html>
+<head>
+    <style>
+        body{
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1> Average Price of shoes </h1>
+    @{
+        double highHeels = 0;
+        double sandals = 0;
+        double sneakers = 0;
+        double boots = 0;
+
+        int count_highHeels = 0;
+        int count_sandals = 0;
+        int count_sneakers = 0;
+        int count_boots = 0;
+
+        foreach (var item in Model)
+        {
+            if (item.TypeOfProduct.NameProductType.Equals("High Heel"))
+            { highHeels = highHeels + item.PriceProduct; count_highHeels++; }
+
+            if (item.TypeOfProduct.NameProductType.Equals("Sandals"))
+            { sandals = sandals + item.PriceProduct; count_sandals++; }
+
+
+            if (item.TypeOfProduct.NameProductType.Equals("Sneakers"))
+            { sneakers = sneakers + item.PriceProduct; count_sneakers++; }
+
+
+            if (item.TypeOfProduct.NameProductType.Equals("Boots"))
+            { boots = boots + item.PriceProduct; count_boots++; }
+        }
+
+        highHeels = highHeels / count_highHeels;
+        sandals = sandals / count_sandals;
+        sneakers = sneakers / count_sneakers;
+        boots = boots / count_boots;
+
+        var key = new Chart(width: 600, height: 400)
+        .AddTitle("Average Price of shoes")
+        .AddSeries(
+           name: "Type",
+           xValue: new[] { "High Heels", "Sandals", "Sneakers", "Boots" },
+           yValues: new[] { highHeels, sandals, sneakers, boots })
+        .Write();
+    }
+</body>
+</html>
+

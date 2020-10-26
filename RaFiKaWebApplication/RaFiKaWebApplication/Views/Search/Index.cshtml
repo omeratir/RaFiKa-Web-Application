@@ -1,0 +1,192 @@
+﻿@model IEnumerable<RaFiKaWebApplication.Models.Product>
+@{
+    ViewBag.Title = "Search";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        html, body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+
+        .productTitle {
+            font-family: cursive;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .productsType {
+            font-family: cursive;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: underline;
+            font-size: 20px;
+        }
+
+        .productDeatils {
+            font-family: cursive;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: auto auto auto;
+            background-color: #ffffff;
+            grid-gap: 40px;
+            padding: 20px;
+        }
+
+            .grid-container > div {
+                position: center;
+                background-color: white;
+                text-align: center;
+                font-size: 30px;
+            }
+
+        .btn {
+            margin-top: 5%;
+            margin-bottom: 5%;
+            background-color: #5457ff;
+            border: none;
+            color: white;
+            padding: 12px 16px;
+            font-size: 16px;
+            cursor: pointer;
+            position: center;
+        }
+
+        .btnback {
+            margin-top: 5%;
+            margin-bottom: 5%;
+            border: none;
+            color: white;
+            padding: 12px 16px;
+            font-size: 16px;
+            cursor: pointer;
+            position: center;
+        }
+
+        .filtertitle {
+            margin-top: 2%;
+            margin-bottom: 2%;
+            font-family: 'Segoe UI';
+            font-size: 3vw;
+            text-align: left;
+            text-shadow: 2px 2px 4px #000000;
+            color: #2d9cba;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    @if (!ViewBag.isSearched)
+    {
+        <div class="card-body">
+            <header>
+                <h3 class="card-title filtertitle">Filter Shoes</h3><br />
+            </header>
+            <form id="needs-validation" novalidate="" action="/Search/Index" method="get">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="validationCustom01">Item Name:</label>
+                        <input type="text" class="form-control" id="validationCustom01" placeholder="Search for an Item" name="name" autocomplete="off">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="validationCustom02">Item Price:</label>
+                        <input type="text" class="form-control" id="validationCustom02" placeholder="Select Price" name="price" autocomplete="off">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="validationCustom03">Item Size:</label>
+                        <input type="text" class="form-control" id="validationCustom03" placeholder="Select Size" name="size" autocomplete="off">
+                    </div>
+                </div>
+                <br />
+                <button class="btn btn-primary" type="submit">Search</button>
+                <button class="btn btn-primary" type="reset">Clear form</button>
+            </form>
+            <script>
+                // Example starter JavaScript for disabling form submissions if there are invalid fields
+                (function () {
+                    'use strict';
+
+                    window.addEventListener('load', function () {
+                        var form = document.getElementById('needs-validation');
+                        form.addEventListener('submit', function (event) {
+                            if (form.checkValidity() === false) {
+                                event.preventDefault();
+                                event.stopPropagation();
+                            }
+                            form.classList.add('was-validated');
+                        }, false);
+                    }, false);
+                })();
+
+                $(function () {
+                    $("form").submit(function () {
+                        $(this).find(":input").filter(function () { return !this.value; }).attr("disabled", "disabled");
+                        return true; // ensure form still submits
+                    });
+
+                    // Un-disable form fields when page loads, in case they click back after submission
+                    $("form").find(":input").prop("disabled", false);
+                });
+            </script>
+        </div>
+    }
+    else
+    {
+        <div class="text-center">
+            <h2 class="filtertitle">Filter Result</h2>
+            <span class="text-muted"></span>
+            <hr />
+        </div>
+
+        <div class="card-columns">
+            @if (Model != null)
+            {
+                <div class="grid-container">
+                    @foreach (var item in Model)
+                    {
+                        <div class="card row">
+                            <h class="productTitle"> @Html.DisplayFor(modelItem => item.NameProduct)</h>
+                            <div>
+                                <img src="@Html.DisplayFor(modelItem => item.PicProduct)" alt="High Heel" width="250" height="250" ; />
+                            </div>
+                            <p class="productsType">Size:</p>
+                            <p class="productDeatils">@Html.DisplayFor(modelItem => item.SizeProduct)</p>
+                            <p class="productsType">Price:</p>
+                            <p class="productDeatils"> @Html.DisplayFor(modelItem => item.PriceProduct)</p>
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <span> Sorry, there are no shoes .</span>
+            }
+            <button class="btnback" style="background-color: #1d5eae;" onclick="toFilter()"><i class="fa fa-filter" aria-hidden="true"></i> Back To Filter Shoes </button>
+            <button class="btnback" style="background-color: #5457ff;" onclick="toPro()"><i class="fa fa-star" aria-hidden="true"></i> Back To Our Products </button>
+
+            <script>
+                function toFilter() {
+                    location.replace("/Search/Index")
+                }
+            </script>
+            <script>
+                function toPro() {
+                    location.replace("/Products/Index")
+                }
+            </script>
+        </div>
+    }
+</body>
+</html>

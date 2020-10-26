@@ -1,0 +1,264 @@
+﻿@{
+    ViewBag.Title = "RaFiKa Shop";
+    
+}
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <style>
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                background-color: #FFF3F3;
+            }
+
+            .buyTitle {
+                font-family: 'Segoe UI';
+                font-size: 5vw;
+                text-align: center;
+                text-shadow: 2px 2px 4px #000000;
+                color: #704848;
+                margin-bottom: 5%;
+                font-weight: bold;
+            }
+
+            img {
+                border: 1px solid #C0C0C0;
+                box-shadow: 5px 5px 2px grey;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .shoesTitle {
+                font-family: cursive;
+                text-align: center;
+                font-weight: bold;
+            }
+
+            .btn {
+                font-family: cursive;
+                color: white;
+                text-align: center;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 15px;
+                background-color: #6d5858;
+            }
+
+            .btnBig {
+                font-family: cursive;
+                color: white;
+                text-align: center;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 30px;
+                background-color: #bf9c9c;
+                border-radius: 25px;
+
+            }
+
+            .deatilsBottom {
+                font-family: cursive;
+                text-align: center;
+            }
+
+            .moreBTN {
+                font-family: cursive;
+                color: #000000;
+                text-align: center;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                font-size: 25px;
+            }
+
+            .deatilsBtn {
+                background-color: DodgerBlue;
+                border: none;
+                color: white;
+                padding: 12px 16px;
+                font-size: 16px;
+                cursor: pointer;
+            }
+
+                /* Darker background on mouse-over */
+            .deatilsBtn:hover {
+               background-color: RoyalBlue;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            #myVideo {
+                margin-top:5%;
+                position: center;
+                right: 0;
+                bottom: 0;
+                max-width: 100%;
+                min-height: 200px;
+                margin-bottom: 5%;
+                border-radius: 12px;
+            }
+
+            .banner {
+                position: center;
+                display: block;
+                /*margin-left: auto;
+              margin-right: auto;*/
+                top: 0px;
+                left: 0px;
+                right: 0px;
+                max-width: 100%;
+                height: 200px;
+                margin-bottom: 5%;
+            }
+
+            .facebook {
+                margin-top: 5%;
+                margin-bottom: 5%;
+                font-family: 'Segoe UI';
+                font-size: 4vw;
+                text-align: left;
+                text-shadow: 2px 2px 4px #000000;
+                color: #4267B2;
+                font-weight: bold;
+                /*font-family: Segoe UI;
+                font-size: 2vw;
+                text-align: center;
+                color: #4267B2;
+                text-shadow: 1px 1px 1px #000000;*/
+            }
+
+            .weather
+            {
+                margin-top: 10%;
+                margin-bottom: 5%;
+                font-family: 'Segoe UI';
+                font-size: 3vw;
+                text-align: center;
+                text-shadow: 2px 2px 4px #000000;
+                color: #bce938;
+                font-weight: bold;
+            }
+
+            .btnfacebook
+            {
+                position: center;
+                background-color: transparent;
+            }
+
+            .bigButton{
+                margin-bottom: 5%;
+                margin-bottom: 7%;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>
+            <video autoplay muted loop id="myVideo">
+                <source src="\Video\vans.mp4" type="video/mp4">
+            </video>
+        </h1>
+        <div class="banner">
+            <img id="banner" src="\Pictures\banner.jpg" alt="Banner Image" style="width:100%" />
+        </div>
+
+        <canvas id="myCanvas" width="1140" height="250" style="border:1px solid #d3d3d3;background-color:#bccb34 ;border-radius: 12px;margin-bottom: 2%">
+            Your browser does not support the canvas element.
+        </canvas>
+
+        <script>
+            var canvas = document.getElementById("myCanvas");
+            var ctx = canvas.getContext("2d");
+            ctx.font = "bold 120px 'Segoe UI'";
+            ctx.fillText("Sneakers Offer", 130, 150);
+        </script>
+
+        <canvas id="plus" width="1140" height="100" style="border:1px solid #d3d3d3;background-color: #c0cb5a; border-radius: 12px;margin-bottom: 2%">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+
+        <script>
+            var canvas = document.getElementById("plus");
+            var ctx = canvas.getContext("2d");
+            ctx.font = "bold 120px 'Segoe UI'";
+            ctx.fillText("1 + 1", 400, 95);
+        </script>
+
+        <p><button onclick="myCanvas()" style="position:center; font-family: cursive"> Click to get your code coupon!</button></p>
+
+        <canvas id="myCanvasclick" width="1140" height="100" style="border:1px solid #d3d3d3;background-color: #c0c784 ;margin-bottom: 15%">
+            Your browser does not support the HTML5 canvas tag.
+        </canvas>
+
+
+        <script>
+            function myCanvas() {
+                var c = document.getElementById("myCanvasclick");
+                var ctx = c.getContext("2d");
+                ctx.font = "bold 50px 'Segoe UI'";
+                ctx.fillText("SNEAKERSOFFER1PLUS1", 220, 65);
+            }
+        </script>
+
+        <div class="buyTitle">
+            <h1 class="buyTitle">Find your favortie shoe</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <h2 class="shoesTitle">High Heels</h2>
+                <img src="\Pictures\yellow_high_heel.jpg" alt="High Heel" width="250" height="250" ; />
+                <p> </p>
+                <p><a class="btn btn-default" href="/Products/HighHeel">Find more high heels ... &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <h2 class="shoesTitle">Sandals</h2>
+                <img src="\Pictures\black_sandals.jpg" alt="Sandals" width="250" height="250" />
+                <p> </p>
+                <p><a class="btn btn-default" href="/Products/Sandals">Find more sandals ... &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <h2 class="shoesTitle">Sneakers</h2>
+                <img src="\Pictures\red_vans.jpg" alt="Sneakers" width="250" height="250" />
+                <p> </p>
+                <p><a class="btn btn-default" href="/Products/Sneakers">Find more sneakers ...  &raquo;</a></p>
+            </div>
+            <div class="col-md-3">
+                <h2 class="shoesTitle">Boots</h2>
+                <img src="\Pictures\hunter_boots.jpg" alt="Boots" width="250" height="250" />
+                <p> </p>
+                <p><a class="btn btn-default" href="/Products/Boots">Find more boots ... &raquo;</a></p>
+            </div>
+        </div>
+        <div class="bigButton">
+            <p><a class="btnBig btn-default" href="/Products">Click here to find more shoes ... &raquo;</a></p>
+        </div>
+
+        @*weather*@
+        <p>
+            <div>
+                <h1 class="weather"><i class="fa fa-snowflake-o" aria-hidden="true"></i> Buy shoes based on the weather in your area  <i class="fa fa-sun-o" aria-hidden="true"> </i> </h1>
+                <a class="weatherwidget-io" href="https://forecast7.com/en/31d9734d79/rishon-letsiyon/" data-label_1="RISHON LEZION" data-label_2="WEATHER" data-icons="Climacons Animated" data-theme="retro-sky">RISHON LEZION WEATHER</a>
+                <script>
+                    !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = 'https://weatherwidget.io/js/widget.min.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'weatherwidget-io-js');
+                </script>
+            </div>
+        </p>
+        <br />
+        <br />
+        <br />
+        @*facebook*@
+        <div class="btnfacebook">
+            <h1 class="facebook">Like our store on Facebook <i class="fa fa-facebook-square" aria-hidden="false"></i> </h1>
+            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRafika_clothes-101226287907183%2F%3Fmodal%3Dadmin_todo_tour&tabs=timeline&width=250&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="500" height="140" style="border:none;overflow:hidden;position: page,center;" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" aria-hidden="true"></iframe>
+        </div>
+
+    </body>
